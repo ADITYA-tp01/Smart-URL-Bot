@@ -1,3 +1,8 @@
+import sys
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
+
+
 from uuid import uuid4          #Used to generate unique ID
 from dotenv import load_dotenv  #Loads environment variables from a .env file.
 from pathlib import Path        #For working with file paths in a platform-independent way.
