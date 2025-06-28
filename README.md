@@ -10,7 +10,7 @@ Extract insights and get answers from web content using AI-powered retrieval and
 ---
 
 ## 🚀 Demo
-🔗 **Live Demo (Streamlit Cloud)**: *Coming soon...*
+🔗 **Live Demo (Streamlit Cloud)**: *https://wiselink.streamlit.app/*
 
 ---
 
